@@ -1,4 +1,5 @@
-""" functions to filter forecasts on the sun """
+"""functions to filter forecasts on the sun"""
+
 import logging
 from datetime import datetime, timezone
 from typing import List

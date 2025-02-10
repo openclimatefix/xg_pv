@@ -1,4 +1,5 @@
 """Model built from pre-trained CNN passthrough"""
+
 from pathlib import Path
 from typing import Tuple
 

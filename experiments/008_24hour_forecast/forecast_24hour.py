@@ -1,4 +1,5 @@
-""" Script to load results from the database """
+"""Script to load results from the database"""
+
 import json
 from datetime import timedelta, timezone
 

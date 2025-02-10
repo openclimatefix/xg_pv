@@ -1,4 +1,5 @@
-""" Function to save results to datbase """
+"""Function to save results to datbase"""
+
 import logging
 
 import pandas as pd

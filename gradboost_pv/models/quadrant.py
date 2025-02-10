@@ -1,4 +1,5 @@
 """Quadrant model - 4 point geospatial downsampling"""
+
 from pathlib import Path
 from typing import Tuple
 

@@ -1,4 +1,5 @@
 """Configure logging"""
+
 import logging
 
 logging_config = dict(

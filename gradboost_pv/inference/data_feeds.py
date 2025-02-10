@@ -1,4 +1,5 @@
 """Datafeeds for model inference"""
+
 import logging
 import os
 from dataclasses import dataclass

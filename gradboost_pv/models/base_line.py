@@ -1,4 +1,5 @@
 """Baseline NWP model with no NWP data"""
+
 from typing import Tuple
 
 import numpy as np

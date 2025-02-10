@@ -1,4 +1,5 @@
 """Functions for model training"""
+
 import dataclasses
 import json
 from dataclasses import dataclass

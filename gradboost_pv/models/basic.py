@@ -1,4 +1,5 @@
 """Basic Model with single point downsampling"""
+
 from pathlib import Path
 from typing import Tuple
 

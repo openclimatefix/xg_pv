@@ -1,4 +1,5 @@
 """Script to process using Basic downsampling"""
+
 from argparse import ArgumentParser
 from pathlib import Path
 

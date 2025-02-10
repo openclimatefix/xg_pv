@@ -1,4 +1,5 @@
 """Script for preprocessing NWP with pretrained CNN"""
+
 from argparse import ArgumentParser
 from math import ceil
 from pathlib import Path

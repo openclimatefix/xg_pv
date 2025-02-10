@@ -1,4 +1,5 @@
 """Models used for inference"""
+
 import logging
 from abc import ABC, abstractmethod
 from dataclasses import dataclass, field

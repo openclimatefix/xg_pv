@@ -1,4 +1,5 @@
 """Model using geospatial masking"""
+
 from pathlib import Path
 from typing import Tuple
 

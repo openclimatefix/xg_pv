@@ -1,4 +1,5 @@
-""" Configure and load test NWP/PV data """
+"""Configure and load test NWP/PV data"""
+
 from pathlib import Path
 from typing import List
 
