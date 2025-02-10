@@ -1,4 +1,5 @@
 """Script to perform quadrant downsampling of NWP data."""
+
 from argparse import ArgumentParser
 from pathlib import Path
 

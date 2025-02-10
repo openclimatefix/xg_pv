@@ -1,4 +1,5 @@
 """Basic types used in package"""
+
 from typing import Union
 
 import numpy as np

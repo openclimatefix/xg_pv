@@ -1,4 +1,5 @@
 """Model training script"""
+
 import logging
 from argparse import ArgumentParser, BooleanOptionalAction
 from pathlib import Path

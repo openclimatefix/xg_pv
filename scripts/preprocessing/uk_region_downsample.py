@@ -1,4 +1,5 @@
 """Script for processing raw NWP data"""
+
 import datetime as dt
 import itertools
 from argparse import ArgumentParser

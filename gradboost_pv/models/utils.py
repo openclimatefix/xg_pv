@@ -1,4 +1,5 @@
 """Model utilities"""
+
 import logging
 from pathlib import Path
 from typing import Callable, Tuple, Union

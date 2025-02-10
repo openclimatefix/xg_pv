@@ -1,4 +1,5 @@
 """Script to simulate data read, model inference and prediction write"""
+
 import logging
 import os
 import pathlib
